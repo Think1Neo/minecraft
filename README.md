@@ -6,6 +6,8 @@
 
 
 ## Cordinadas
-
+> NOTE las cordenadas estan en x, y ,z
 ### Templo del agua
-- 0 0 0 
+- 258, 63, 182
+
+> IMPORTANT vegetita es bien
