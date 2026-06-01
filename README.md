@@ -15,3 +15,5 @@
 
 >[!IMPORTANT] 
 > vegetita es bien pro, gei si piensas lo contrario
+
+<img src="https://imgs.search.brave.com/FjcBSrJdqiPKD5pveLXoPnq51jzASKjiKX6OXVcyVFE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMzLm1lbWVkcm9p/ZC5jb20vaW1hZ2Vz/L1VQTE9BREVEMTY2/LzY3OGIzYzQwZGJk/MzQuanBlZw"/>
