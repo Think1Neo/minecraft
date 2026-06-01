@@ -23,6 +23,10 @@
 
 - 616, 71, 172
 
+### Bosque balnco
+
+- -97, 88, 140
+
 > [!IMPORTANT]
 > vegetita es bien pro, gei si piensas lo contrario
 
